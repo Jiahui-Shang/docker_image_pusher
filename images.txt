@@ -4,4 +4,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #halohub/halo:sha-c5bf192
---platform=linux/arm64 halohub/halo:latest
+--platform=linux/arm64 halohub/halo:2.17.1
